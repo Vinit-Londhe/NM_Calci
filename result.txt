@@ -1,0 +1,20 @@
+
+*** BISECTION METHOD IMPLEMENTATION ***
+Iteration:1 	f(x) = 2.500000 	f(x) = -3.375000
+Iteration:2 	f(x) = 2.750000 	f(x) = 0.796875
+Iteration:3 	f(x) = 2.625000 	f(x) = -1.412109
+Iteration:4 	f(x) = 2.687500 	f(x) = -0.339111
+Iteration:5 	f(x) = 2.718750 	f(x) = 0.220917
+Iteration:6 	f(x) = 2.703125 	f(x) = -0.061077
+Iteration:7 	f(x) = 2.710938 	f(x) = 0.079423
+Iteration:8 	f(x) = 2.707031 	f(x) = 0.009049
+Iteration:9 	f(x) = 2.705078 	f(x) = -0.026045
+Iteration:10 	f(x) = 2.706055 	f(x) = -0.008506
+Iteration:11 	f(x) = 2.706543 	f(x) = 0.000270
+Iteration:12 	f(x) = 2.706299 	f(x) = -0.004118
+Iteration:13 	f(x) = 2.706421 	f(x) = -0.001924
+Iteration:14 	f(x) = 2.706482 	f(x) = -0.000827
+Iteration:15 	f(x) = 2.706512 	f(x) = -0.000279
+Iteration:16 	f(x) = 2.706528 	f(x) = -0.000004
+
+Required Root is : 2.70652771
